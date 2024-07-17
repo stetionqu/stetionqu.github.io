@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stetionqu.github.io/sitemap
+Sitemap: https://stetionqu.github.io/app/sitemap
+Sitemap: https://stetionqu.github.io/assets/sitemap
+Sitemap: https://stetionqu.github.io/css/sitemap
+Sitemap: https://stetionqu.github.io/includes/sitemap
+Sitemap: https://stetionqu.github.io/item/sitemap
+Sitemap: https://stetionqu.github.io/src/sitemap
